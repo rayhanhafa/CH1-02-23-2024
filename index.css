@@ -1,0 +1,11 @@
+/* h1 {
+    font-size: 50px;
+} */
+
+/* css untuk screen dibawah atau setara dengan 600px */
+@media (max-width: 600px) {
+    /* h1 {
+        font-size: 6px;
+        color: yellow;
+    } */
+}
